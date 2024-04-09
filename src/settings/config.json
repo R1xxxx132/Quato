@@ -1,0 +1,10 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": ""
+    },
+
+    "embed": {
+		"default_embed_color": ""
+	}
+}
